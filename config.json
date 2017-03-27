@@ -1,3 +1,9 @@
 {
-  "port": 1234
+  "port": 1234,
+  "test": {
+    "asd": true,
+    "asfg": {
+      "ted": 4
+    }
+  }
 }

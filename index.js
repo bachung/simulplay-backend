@@ -1,1 +1,3 @@
-const config = require('./config.js');
+const config = require('src/config.js');
+
+console.log(config);
