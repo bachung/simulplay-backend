@@ -1,0 +1,23 @@
+{
+  "name": "simulplay-backend",
+  "version": "1.0.0",
+  "description": "back end of simulplay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachung/simulplay-backend.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bachung/simulplay-backend/issues"
+  },
+  "homepage": "https://github.com/bachung/simulplay-backend#readme",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-google": "^0.7.1"
+  }
+}
